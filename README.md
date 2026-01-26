@@ -109,6 +109,9 @@ tensorboard --logdir runs
 Open browser at: [http://localhost:6006](http://localhost:6006)
 
 ## 📊 Results & Observations
+<img width="1911" height="1054" alt="Screenshot 2026-01-16 143928" src="https://github.com/user-attachments/assets/0ba9f268-2aae-47a3-8f5b-200a76348ccf" />
+![Uploading Screenshot 2026-01-08 141602.png…]()
+
 
 * PPO learns adaptive signal control strategies
 * Reduced average waiting time compared to fixed-time control
