@@ -109,7 +109,7 @@ tensorboard --logdir runs
 Open browser at: [http://localhost:6006](http://localhost:6006)
 
 ## 📊 Results & Observations
-<img width="1919" height="1079" alt="Screenshot 2026-01-08 141602" src="https://github.com/user-attachments/assets/02a72d63-56a5-471f-8f5e-612c860b1031" />
+<img width="1915" height="1076" alt="Screenshot 2026-01-31 115720" src="https://github.com/user-attachments/assets/88b89937-f487-4621-86fe-35c66d2353d4" />
 
 <img width="1919" height="1077" alt="Screenshot 2026-01-16 145119" src="https://github.com/user-attachments/assets/9407549d-6345-44f6-98d3-ed67614fde16" />
 <img width="1919" height="1079" alt="Screenshot 2026-01-16 145100" src="https://github.com/user-attachments/assets/6bce3402-5f90-4375-b7dc-26fb7fb02960" />
